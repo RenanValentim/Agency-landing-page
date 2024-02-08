@@ -1,0 +1,14 @@
+{
+  "name": "tailwind-agency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./style/input.css -o ./style/output.css --watch"
+  },
+  "author": "Renan Valentim",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
